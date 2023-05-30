@@ -1,3 +1,5 @@
+![Computer Vision Maze Solver](https://github.com/sahandbabali/Computer-Vision-Maze-Solver/blob/main/screenshot/screenshot.png?raw=true)
+
 How to use:
 
 - Upload your maze image
