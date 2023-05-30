@@ -1,0 +1,27 @@
+#emptycellbadge {
+  background-color: rgb(164, 190, 123) !important;
+}
+
+#obstaclecellbadge {
+  background-color: rgb(40, 84, 48) !important;
+}
+
+#homeendcellbadge {
+  background-color: rgb(142, 50, 0) !important;
+}
+
+#pathcellbadge {
+  background-color: rgb(255, 0, 0) !important;
+}
+
+#opensetbadge {
+  background-color: rgba(255, 0, 0, 0.4) !important;
+}
+
+canvas {
+  margin-top: 1rem;
+}
+
+#imageContainer img {
+  width: 100%;
+}
